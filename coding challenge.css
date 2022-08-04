@@ -1,0 +1,63 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.pippo{
+  margin: auto;
+  background: rgba(20, 20, 20, 0.5);
+  width: 55%;
+  height: 80%;
+  padding: 5%;
+  margin-bottom: 10%;
+  border-radius: 20px;
+}
+.logo{
+  display: block;
+  margin: auto;
+  width: 25%;
+  }
+  .logo-text{
+    color: rgb(8, 220, 4);
+    display: block;
+    text-align: center;
+    font-size: 35px
+  }
+  .bottoni{
+    display: inline-block;
+  }
+  section {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(8, 220, 4);
+  }
+
+.parte1{
+text-align: center;
+}
+.titolo1{
+  color: white;
+  font-size: 25px;
+}
+.testo, .testo2{
+  color: white;
+  font-size: 15px;
+}
+.carica{
+  background-color: ORANGE;
+  width: 40%;
+  height: 20px;
+  border-radius: 5px;
+}
+.carica2{
+  background-color: green;
+  width: 60%;
+  height: 20px;
+  border-radius: 5px;
+}
+.carica3{
+  background-color: red;
+  width: 20%;
+  height: 20px;
+  border-radius: 5px;
+}
